@@ -1,0 +1,32 @@
+	Tarea 05
+
+01- Crear un archivo llamado script.js en la carpeta js que deberá
+    estar contenido en la carpeta js dentro del proyecto2
+
+03- Vincular el archivo js con el documento html
+
+
+04- Declarar una funcion anónima autoejecutable que imprima en
+    la consola el texto 'Hola Mundo'
+
+
+05- Crear una variable del tipo array 
+
+
+06- Crear una variable del tipo string
+
+
+07- Crear una variable del tipo numerico
+
+
+08- Añadir dos elementos del tipo string dentro del array
+
+
+09- Imprimir en consola el valor del array
+
+
+10- Crear una variable del tipo object
+
+
+11- Añadir los atributos descripcion y cantidad a la variable
+    del tipo object 
