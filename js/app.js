@@ -1,6 +1,7 @@
 //#04 Declaran funcin anónima autoejecutable
+(function){
 console.log('Hola Mundo');
-
+})();
 //#05 Variable tipo array
 //#08 Añadir elementos string
 //#09 Imprimir en consola
